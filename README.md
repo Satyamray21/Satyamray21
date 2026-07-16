@@ -1,6 +1,3 @@
-Here is the exact code. Please use the **Copy button** in the top right corner of the box below:
-
-```html
 <!-- Header Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Satyam%20Ray&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20SaaS%20Architect&descAlignY=58&descAlign=62" />
@@ -126,4 +123,3 @@ I am a passionate **Full Stack Developer** from India, specializing in the **MER
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
-```
