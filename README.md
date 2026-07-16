@@ -1,4 +1,4 @@
-
+Here is the exact code. Please use the **Copy button** in the top right corner of the box below:
 
 ```html
 <!-- Header Section -->
