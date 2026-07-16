@@ -1,8 +1,6 @@
-Here is the full, updated code from top to bottom. Just copy this entire block and overwrite everything in your `README.md` file! 
 
-***
 
-```markdown
+```html
 <!-- Header Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Satyam%20Ray&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20SaaS%20Architect&descAlignY=58&descAlign=62" />
