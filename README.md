@@ -1,3 +1,8 @@
+Here is the full, updated code from top to bottom. Just copy this entire block and overwrite everything in your `README.md` file! 
+
+***
+
+```markdown
 <!-- Header Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Satyam%20Ray&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20SaaS%20Architect&descAlignY=58&descAlign=62" />
@@ -88,7 +93,7 @@ I am a passionate **Full Stack Developer** from India, specializing in the **MER
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Satyamray21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Satyam's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Satyamray21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Satyam's GitHub Stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamray21&layout=compact&theme=tokyonight&hide_border=true" alt="Satyam's Top Languages"/>
 </div>
 
@@ -101,7 +106,7 @@ I am a passionate **Full Stack Developer** from India, specializing in the **MER
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyamray21&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="Satyam's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Satyamray21&theme=tokyonight&no-frame=true&column=6" alt="Satyam's Trophies" />
 </div>
 
 <br/>
@@ -123,3 +128,4 @@ I am a passionate **Full Stack Developer** from India, specializing in the **MER
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+```
